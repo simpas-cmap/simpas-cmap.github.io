@@ -5,7 +5,7 @@ permalink: /team/
 nav_order: 2
 ---
 
-# Permantent Members
+## Permanent Members
 
 - Stefano De Marco (Professor)
 - Erwan Le Pennec (Professor)
