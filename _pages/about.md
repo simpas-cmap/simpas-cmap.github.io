@@ -1,9 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-
-profile:
+news: false
+latest_posts: false
+selected_papers: false
+social: false
 ---
 
 The SIMPAS team is part of the [Centre de Mathématiques Appliquées](https://cmap.ip-paris.fr/) within the [École polytechnique](https://www.polytechnique.edu/).
