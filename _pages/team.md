@@ -20,7 +20,7 @@ nav_order: 2
 - El Mahdi El Mhamdi (Professor)
 - Gauthier Vermandel (Researcher)
 - Luiz Chamon (Professor)
-- Solenne Gaucher
-- Clément Bonet
-- Paul Mangold
+- Solenne Gaucher (Assistant Professor)
+- Clément Bonet (Assistant Professor)
+- Paul Mangold (Assistant Professor)
 
