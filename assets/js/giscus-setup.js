@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "simpas-cmap/websitee",
+    "data-repo": "simpas-cmap/simpas-cmap.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
