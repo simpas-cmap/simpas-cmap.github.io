@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Team
 permalink: /team/
 nav_order: 2
