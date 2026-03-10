@@ -2,8 +2,6 @@
 layout: page
 title: Team
 permalink: /team/
-nav_exclude: false
-nav: true
 nav_order: 2
 ---
 

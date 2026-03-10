@@ -6,8 +6,6 @@ news: false
 latest_posts: false
 selected_papers: false
 social: false
-nav_exclude: false
-nav: true
 nav_order: 1
 ---
 

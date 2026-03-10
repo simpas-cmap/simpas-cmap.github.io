@@ -2,9 +2,7 @@
 layout: page
 title: Agenda
 permalink: /agenda/
-nav: true
 nav_order: 3
-nav_exclude: false
 ---
 
 # Upcoming Agenda
