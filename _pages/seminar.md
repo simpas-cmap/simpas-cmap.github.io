@@ -17,7 +17,7 @@ nav_order: 3
 
   *In this talk, we consider the high-frequency estimation of the jump parameters of a stochastic differential equation driven by a Lévy process. More precisely, we are interested in the efficient estimation of scaling and jump activity parameters in the presence of a Brownian motion and a jump component.*
 
-*We first study efficiency for the prototype Lévy process. By studying the behavior of the density of the process in small time,  we prove that the LAN property holds for the joint estimation of the diffusion, scaling and jump activity  parameters. We next consider a stochastic differential equation driven both by a Brownian Motion and a locally stable pure-jump Lévy process. Using a quasi-likelihood estimation method, we exhibit an estimator that attains the optimal rate of convergence previously identified.*
+  *We first study efficiency for the prototype Lévy process. By studying the behavior of the density of the process in small time,  we prove that the LAN property holds for the joint estimation of the diffusion, scaling and jump activity  parameters. We next consider a stochastic differential equation driven both by a Brownian Motion and a locally stable pure-jump Lévy process. Using a quasi-likelihood estimation method, we exhibit an estimator that attains the optimal rate of convergence previously identified.*
 
 #### Wednesday, March 18, 2026 (14h-15h)
 - **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
