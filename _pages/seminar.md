@@ -13,7 +13,11 @@ nav_order: 3
   
   *Generative models are revolutionizing daily life through applications such as image and audio synthesis, while also enabling breakthroughs in scientific discovery. Despite their huge practical successes, the interpretability of modern generative models remains relatively underexplored. In this talk, I will present one line of my recent work that investigates the intrinsic dynamics and latent geometric structures of generative models. By drawing on both probabilistic and physical perspectives, we aim to demonstrate how these insights can be harnessed during the sampling stage to guide and control pre-trained multimodal models in fine-grained scenarios. This enables versatile downstream multimodal applications, including image semantic editing, text-image guided data customization, controllable enhancement of low-level visual attributes, text-guided acoustic masking, and text-to-image diversity enhancement. Through a series of real-world applications, we hope to bridge the gap between theoretical insights and the reliable deployment of multimodal generative models in complex, real-world environments.*
   
-- **Elise Bayraktar:** TBA
+- **Elise Bayraktar:** Efficient estimation of jump parameters for stochastic differential equations driven by Lévy processes
+
+  *In this talk, we consider the high-frequency estimation of the jump parameters of a stochastic differential equation driven by a Lévy process. More precisely, we are interested in the efficient estimation of scaling and jump activity parameters in the presence of a Brownian motion and a jump component.*
+
+*We first study efficiency for the prototype Lévy process. By studying the behavior of the density of the process in small time,  we prove that the LAN property holds for the joint estimation of the diffusion, scaling and jump activity  parameters. We next consider a stochastic differential equation driven both by a Brownian Motion and a locally stable pure-jump Lévy process. Using a quasi-likelihood estimation method, we exhibit an estimator that attains the optimal rate of convergence previously identified.*
 
 #### Wednesday, March 18, 2026 (14h-15h)
 - **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
