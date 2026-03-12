@@ -82,16 +82,6 @@ nav_order: 2
 - Versini  Lucas (started 2025, supervision by Dieuleveut, Mangold)
 - Gabriel Foy (started 2025, supervision by Chamon, Florence Carton)
 - Pantei Andrei (started 2026, supervision by Dieuleveut, Goude)
-- nan nan (started ?, supervision by )
-- nan nan (started ?, supervision by )
-- nan nan (started ?, supervision by )
-- nan nan (started ?, supervision by )
-- nan nan (started ?, supervision by )
-- nan nan (started ?, supervision by )
-- Gabriel Victorino-cardoso (started ?, supervision by Moulines)
-- Maksim Kaledin (started ?, supervision by Moulines, A. Naumov, D. Belomestny)
-- Thomas Mesnard (started ?, supervision by Moulines, R. Munos)
-- Pablo Jimenez Moreno (started ?, supervision by Moulines, Durmus)
 
 ### Alumni
 
@@ -128,6 +118,10 @@ nav_order: 2
 - Antonio  Ocello (2023, 2025, postdoc)
 - Paul Mangold (2023, 2025, postdoc)
 - Deepika Singh (2024, 2026, postdoc)
+- Gabriel Victorino-cardoso (supervision by Moulines)
+- Maksim Kaledin (supervision by Moulines, A. Naumov, D. Belomestny)
+- Thomas Mesnard (supervision by Moulines, R. Munos)
+- Pablo Jimenez Moreno (started ?, supervision by Moulines, Durmus)
 - Isaque Pimentel (2015, 2018, phd)
 - Uladzislau Stazhynski (2016, 2018, phd)
 - Gregory Delipei (2016, 2019, phd)
