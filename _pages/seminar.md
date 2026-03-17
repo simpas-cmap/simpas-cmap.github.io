@@ -8,6 +8,35 @@ nav_order: 3
 
 ## Upcoming Seminars
 
+#### Wednesday, March 18, 2026 (14h-15h)
+- **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
+
+  *In pure exploration problems for stochastic multi-armed bandits, the goal is to answer a question about a set of unknown distributions (for example, the efficacy of a treatment) by strategically sampling from them, while providing guarantees on the returned answer. The archetypal example is the best arm identification problem, where the task is to find the arm with the largest mean. Top Two algorithms, which select the next arm to sample from among a leader and a challenger, have received significant attention in recent years due to their simplicity and interpretability.*
+
+  *In this talk, I will present recent advances on two complementary aspects of pure exploration: achieving non-asymptotic guarantees and ensuring differential privacy. First, we propose a Top Two algorithm which has an asymptotically optimal expected sample complexity, and also provides anytime guarantees on the probability of misidentifying a sufficiently good arm. Second, we show how the Top Two principle can be combined with differential privacy mechanisms, leading to algorithms that preserve near-optimal efficiency while ensuring privacy guarantees. These results not only deepen our theoretical understanding but also enable more practical and privacy-aware bandit algorithms.*
+  
+#### Wednesday, March 25, 2026 (14h-15h)
+
+- **Timothy Johnston:** Bayesian Adversarial Privacy
+
+  *Theoretical and applied research into privacy encompasses an incredibly broad swathe of differing approaches, emphasis and aims. In this talk I shall discuss a new quantitative notion of privacy that is both contextual and specific. Our definition relies on concepts inherent to standard Bayesian decision theory, while departing from it in several important respects. In particular, the party controlling the release of sensitive information should make disclosure decisions from the prior viewpoint, rather than conditional on the data, even when the data is itself observed. I shall also discuss toy examples and computational methods, to highlight the specificities of our framework.*
+
+
+#### Wednesday, April 8, 2026 (13h-14h)
+
+- **Louis-Pierre Chaintron:** ResNets of All Shapes and Sizes: Quantitative Large-Scale Theory of Training Dynamics
+
+- **We study the convergence of the training dynamics of residual neural networks (ResNets) towards their joint infinite depth–width limit. We focus on ResNets with two-layer perceptron blocks, whose shape is determined by the depth L, hidden width M, and embedding dimension D, and we adopt the residual scaling O(√D/√(LM) ) recently identified as necessary for local feature learning. We show that after a bounded number of training steps, the error between the finite ResNet and its infinite-size limit is O(1/L + √D/√(LM) + 1/√D), and numerical experiments suggest that this bound is tight in the early training phase.
+From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit over the coordinates of the embedding, where some interactions scale in 1/√D contrary to the usual 1/D setting. Our analysis is a rigorous and quantitative instance of the Dynamical Mean Field Theory (DMFT) from statistical physics; it combines propagation of chaos arguments with the cavity method at a functional level.**
+
+
+  
+  
+---
+  
+  
+## Past Seminars
+
 #### Tuesday, March 17, 2026 (10h30-12h30)
 - **Ye Zhu:** Dynamic and Structural Sampling for Interpretable and Versatile Control in Multimodal Generation
   
@@ -18,18 +47,6 @@ nav_order: 3
   *In this talk, we consider the high-frequency estimation of the jump parameters of a stochastic differential equation driven by a Lévy process. More precisely, we are interested in the efficient estimation of scaling and jump activity parameters in the presence of a Brownian motion and a jump component.*
 
   *We first study efficiency for the prototype Lévy process. By studying the behavior of the density of the process in small time,  we prove that the LAN property holds for the joint estimation of the diffusion, scaling and jump activity  parameters. We next consider a stochastic differential equation driven both by a Brownian Motion and a locally stable pure-jump Lévy process. Using a quasi-likelihood estimation method, we exhibit an estimator that attains the optimal rate of convergence previously identified.*
-
-#### Wednesday, March 18, 2026 (14h-15h)
-- **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
-
-  *In pure exploration problems for stochastic multi-armed bandits, the goal is to answer a question about a set of unknown distributions (for example, the efficacy of a treatment) by strategically sampling from them, while providing guarantees on the returned answer. The archetypal example is the best arm identification problem, where the task is to find the arm with the largest mean. Top Two algorithms, which select the next arm to sample from among a leader and a challenger, have received significant attention in recent years due to their simplicity and interpretability.*
-
-  *In this talk, I will present recent advances on two complementary aspects of pure exploration: achieving non-asymptotic guarantees and ensuring differential privacy. First, we propose a Top Two algorithm which has an asymptotically optimal expected sample complexity, and also provides anytime guarantees on the probability of misidentifying a sufficiently good arm. Second, we show how the Top Two principle can be combined with differential privacy mechanisms, leading to algorithms that preserve near-optimal efficiency while ensuring privacy guarantees. These results not only deepen our theoretical understanding but also enable more practical and privacy-aware bandit algorithms.*
-  
----
-  
-  
-## Past Seminars
 
 #### Wednesday, February 24, 2026 (10h-12h)
 - **Badr Moufad:** When Test-Time Guidance Is Enough: Training-Free Posterior Sampling with Diffusion Priors
