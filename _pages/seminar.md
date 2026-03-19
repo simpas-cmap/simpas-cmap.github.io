@@ -7,13 +7,6 @@ nav_order: 3
 ---
 
 ## Upcoming Seminars
-
-#### Wednesday, March 18, 2026 (14h-15h)
-- **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
-
-  *In pure exploration problems for stochastic multi-armed bandits, the goal is to answer a question about a set of unknown distributions (for example, the efficacy of a treatment) by strategically sampling from them, while providing guarantees on the returned answer. The archetypal example is the best arm identification problem, where the task is to find the arm with the largest mean. Top Two algorithms, which select the next arm to sample from among a leader and a challenger, have received significant attention in recent years due to their simplicity and interpretability.*
-
-  *In this talk, I will present recent advances on two complementary aspects of pure exploration: achieving non-asymptotic guarantees and ensuring differential privacy. First, we propose a Top Two algorithm which has an asymptotically optimal expected sample complexity, and also provides anytime guarantees on the probability of misidentifying a sufficiently good arm. Second, we show how the Top Two principle can be combined with differential privacy mechanisms, leading to algorithms that preserve near-optimal efficiency while ensuring privacy guarantees. These results not only deepen our theoretical understanding but also enable more practical and privacy-aware bandit algorithms.*
   
 #### Wednesday, March 25, 2026 (14h-15h)
 
@@ -36,6 +29,15 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
   
   
 ## Past Seminars
+
+
+#### Wednesday, March 18, 2026 (14h-15h)
+- **Marc Jourdan:** Advances in Pure Exploration in Bandits: Non-Asymptotic and Private.
+
+  *In pure exploration problems for stochastic multi-armed bandits, the goal is to answer a question about a set of unknown distributions (for example, the efficacy of a treatment) by strategically sampling from them, while providing guarantees on the returned answer. The archetypal example is the best arm identification problem, where the task is to find the arm with the largest mean. Top Two algorithms, which select the next arm to sample from among a leader and a challenger, have received significant attention in recent years due to their simplicity and interpretability.*
+
+  *In this talk, I will present recent advances on two complementary aspects of pure exploration: achieving non-asymptotic guarantees and ensuring differential privacy. First, we propose a Top Two algorithm which has an asymptotically optimal expected sample complexity, and also provides anytime guarantees on the probability of misidentifying a sufficiently good arm. Second, we show how the Top Two principle can be combined with differential privacy mechanisms, leading to algorithms that preserve near-optimal efficiency while ensuring privacy guarantees. These results not only deepen our theoretical understanding but also enable more practical and privacy-aware bandit algorithms.*
+
 
 #### Tuesday, March 17, 2026 (10h30-12h30)
 - **Ye Zhu:** Dynamic and Structural Sampling for Interpretable and Versatile Control in Multimodal Generation
