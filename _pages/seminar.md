@@ -20,10 +20,10 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
 
 #### Thursday, April 16, 2026 (10h-12h) (SGM)
 
-- Clément Bonet: *To be announced*
-- Anna Korba: *To be announced*
-- Marguerite Petit-Talamon: *To be announced*
-- Pierre-Cyril Aubin-Frankowski: *To be announced*
+- **Clément Bonet:** *To be announced*
+- **Anna Korba:** *To be announced*
+- **Marguerite Petit-Talamon:** *To be announced*
+- **Pierre-Cyril Aubin-Frankowski:** *To be announced*
 
 
 
