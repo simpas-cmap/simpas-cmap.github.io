@@ -1,0 +1,7 @@
+.group-meeting-label {
+  color: #007acc;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 0.85em;   /* slightly smaller than normal text */
+  margin-right: 0.5em;
+}
