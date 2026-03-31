@@ -1,19 +1,18 @@
+:root {
+  --group-meeting-label-color: #800080; /* dark purple for light theme */
+}
+
+html[data-theme=dark] {
+  --group-meeting-label-color: #ff66cc; /* bright reddish-pink for dark theme */
+}
+
+
 .group-meeting-label {
-  color: #007acc;
+  /*color: #007acc;*/
   font-variant: small-caps;
   font-weight: bold;
   font-size: 0.85em;   /* slightly smaller than normal text */
   margin-right: 0.5em;
   font-family: serif; 
+  color: var(--group-meeting-label-color) !important;
 }
-
-@media (prefers-color-scheme: light) {
-  .group-meeting-label {
-    color: #800080 !important;  /* dark purple */
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  .group-meeting-label {
-    color: #ff66cc !important;  /* bright reddish-pink */
-  }
