@@ -18,7 +18,7 @@ nav_order: 3
 From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit over the coordinates of the embedding, where some interactions scale in 1/√D contrary to the usual 1/D setting. Our analysis is a rigorous and quantitative instance of the Dynamical Mean Field Theory (DMFT) from statistical physics; it combines propagation of chaos arguments with the cavity method at a functional level.*
 
 
-#### Thursday, April 16, 2026 (10h-12h) (SGM)
+#### <span class="group-meeting-label">GROUP MEETING</span> Thursday, April 16, 2026 (10h-12h) (SGM)
 
 - **Clément Bonet:** *To be announced*
 - **Anna Korba:** *To be announced*
@@ -67,7 +67,7 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
 
   *We first study efficiency for the prototype Lévy process. By studying the behavior of the density of the process in small time,  we prove that the LAN property holds for the joint estimation of the diffusion, scaling and jump activity  parameters. We next consider a stochastic differential equation driven both by a Brownian Motion and a locally stable pure-jump Lévy process. Using a quasi-likelihood estimation method, we exhibit an estimator that attains the optimal rate of convergence previously identified.*
 
-#### Wednesday, February 24, 2026 (10h-12h) (SGM)
+#### <span class="group-meeting-label">GROUP MEETING</span> Wednesday, February 24, 2026 (10h-12h) (SGM)
 - **Badr Moufad:** When Test-Time Guidance Is Enough: Training-Free Posterior Sampling with Diffusion Priors
 - **Benjamin Dupuis:** Score matching gap and generalization properties of diffusion models
 - **Aymeric Capitaine:** From Prediction to Decision in Dynamic Strategic Environments
@@ -78,14 +78,14 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
 
 *Wasserstein barycentres represent average distributions between multiple probability measures for the Wasserstein distance. The numerical computation of Wasserstein barycentres is notoriously challenging. A common approach is to use Sinkhorn iterations, where an entropic regularisation term is introduced to make the problem more manageable. Another approach involves using fixed-point methods, akin to those employed for computing Fréchet means on manifolds. The convergence of such methods for 2-Wasserstein barycentres, specifically with a quadratic cost function and absolutely continuous measures, was studied by Alvarez-Esteban et al.. In this paper, we delve into the main ideas behind this fixed-point method and explore how it can be generalised to accommodate more diverse transport costs and generic probability measures, thereby extending its applicability to a broader range of problems. We show convergence results for this approach and illustrate its numerical behaviour on several barycentre problems.*
 
-#### Wednesday, January 22, 2026 (10h-12h) (SGM)
+#### <span class="group-meeting-label">GROUP MEETING</span> Wednesday, January 22, 2026 (10h-12h) (SGM)
 - **Rémi Flamary:** Introduction to Optimal Transport and Gromov-Wasserstein
 - **Paul Krzakala:** The quest for the GRAph Level autoEncoder (GRALE)
 - **Sonia Mazelet:** Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
 - **Thibaut Germain:** A Spectral-Grassmann Wasserstein metric for operator representations of dynamical systems 
 
 
-#### Wednesday, November 12, 2025 (10h-12h) (SGM)
+#### <span class="group-meeting-label">GROUP MEETING</span> Wednesday, November 12, 2025 (10h-12h) (SGM)
 - **Paul Mangold:** Federated Learning: a Tale of Heterogeneity
 - **Lucas Versini:** Analysis of Decentralized SGD: a Markov Chain Perspective
 - **Safwan Labbi:** Federated Model-Based Reinforcement Learning
