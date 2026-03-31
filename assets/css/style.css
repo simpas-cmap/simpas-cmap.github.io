@@ -1,1 +1,1 @@
-.group-meeting-label{color:#007acc;font-variant:small-caps;font-weight:bold;font-size:.85em;margin-right:.5em}
+:root{--group-meeting-label-color:purple}html[data-theme=dark]{--group-meeting-label-color:#f6c}.group-meeting-label{font-variant:small-caps;font-weight:bold;font-size:.85em;margin-right:.5em;font-family:serif;color:var(--group-meeting-label-color)!important}
