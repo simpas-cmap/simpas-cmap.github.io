@@ -4,4 +4,16 @@
   font-weight: bold;
   font-size: 0.85em;   /* slightly smaller than normal text */
   margin-right: 0.5em;
+  font-family: serif; 
 }
+
+@media (prefers-color-scheme: light) {
+  .group-meeting-label {
+    color: #800080 !important;  /* dark purple */
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .group-meeting-label {
+    color: #ff66cc !important;  /* bright reddish-pink */
+  }
