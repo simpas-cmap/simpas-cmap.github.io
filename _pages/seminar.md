@@ -26,6 +26,11 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
 - **Pierre-Cyril Aubin-Frankowski:** *To be announced*
 
 
+#### Wednesday, April 22, 2026 
+
+- **Maxime Haddouche:** *To be announced*
+
+
 
 #### Tuesday, May 12, 2026 (11h-12h) (SGS)
 
