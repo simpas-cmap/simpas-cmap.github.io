@@ -8,15 +8,11 @@ nav_order: 3
 
 ## Upcoming Seminars
 
+#### Wednesday, April 15th, 2026 (SGS)
 
+- **Jean-Baptiste Fermanian:** Class conditional conformal prediction for multiple inputs by p-value aggregation
 
-#### Wednesday, April 8, 2026 (13h-14h) (SGS)
-
-- **Louis-Pierre Chaintron:** ResNets of All Shapes and Sizes: Quantitative Large-Scale Theory of Training Dynamics
-
-  *We study the convergence of the training dynamics of residual neural networks (ResNets) towards their joint infinite depth–width limit. We focus on ResNets with two-layer perceptron blocks, whose shape is determined by the depth L, hidden width M, and embedding dimension D, and we adopt the residual scaling O(√D/√(LM) ) recently identified as necessary for local feature learning. We show that after a bounded number of training steps, the error between the finite ResNet and its infinite-size limit is O(1/L + √D/√(LM) + 1/√D), and numerical experiments suggest that this bound is tight in the early training phase.
-From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit over the coordinates of the embedding, where some interactions scale in 1/√D contrary to the usual 1/D setting. Our analysis is a rigorous and quantitative instance of the Dynamical Mean Field Theory (DMFT) from statistical physics; it combines propagation of chaos arguments with the cavity method at a functional level.*
-
+  *Conformal prediction methods are statistical tools designed to quantify uncertainty and generate predictive sets with guaranteed coverage probabilities. This work introduces a refinement to these methods for classification tasks, specifically tailored for scenarios where multiple observations (multi-inputs) of a single instance are available at prediction time. Our approach is particularly motivated by applications in citizen science, where multiple images of the same plant or animal are captured by individuals. Our method integrates the information from each observation into conformal prediction, enabling a reduction in the size of the predicted label set while preserving the required class-conditional coverage guarantee. The approach is based on the aggregation of conformal p-values computed from each observation of a multi-input. By exploiting the exact distribution of these p-values, we propose a general aggregation framework using an abstract scoring function, encompassing many classical statistical tools. Knowledge of this distribution also enables refined versions of standard strategies, such as majority voting. We evaluate our method on simulated and real data, with a particular focus on Pl@ntNet, a prominent citizen science platform that facilitates the collection and identification of plant species through user-submitted images.*
 
 #### <span class="group-meeting-label">Group Meeting</span> Thursday, April 16, 2026 (10h-12h) (SGM)
 
@@ -43,6 +39,14 @@ From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit 
   
   
 ## Past Seminars
+
+#### Wednesday, April 8, 2026 (13h-14h) (SGS)
+
+- **Louis-Pierre Chaintron:** ResNets of All Shapes and Sizes: Quantitative Large-Scale Theory of Training Dynamics
+
+  *We study the convergence of the training dynamics of residual neural networks (ResNets) towards their joint infinite depth–width limit. We focus on ResNets with two-layer perceptron blocks, whose shape is determined by the depth L, hidden width M, and embedding dimension D, and we adopt the residual scaling O(√D/√(LM) ) recently identified as necessary for local feature learning. We show that after a bounded number of training steps, the error between the finite ResNet and its infinite-size limit is O(1/L + √D/√(LM) + 1/√D), and numerical experiments suggest that this bound is tight in the early training phase.
+From a probabilistic viewpoint, the D→∞ limit amounts to a mean-field limit over the coordinates of the embedding, where some interactions scale in 1/√D contrary to the usual 1/D setting. Our analysis is a rigorous and quantitative instance of the Dynamical Mean Field Theory (DMFT) from statistical physics; it combines propagation of chaos arguments with the cavity method at a functional level.*
+
 
 #### Wednesday, March 25, 2026 (14h-15h) (SGS)
 
