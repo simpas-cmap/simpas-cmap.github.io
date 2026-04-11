@@ -30,7 +30,10 @@ nav_order: 3
 
 #### Tuesday, May 12, 2026 (11h-12h) (SGS)
 
-- **Jason Altschuler:** *To be announced*
+- **Jason Altschuler:** Negative Stepsizes Make Gradient-Descent-Ascent Converge
+
+  *Solving min-max problems is a central question in optimization, games, learning, and controls. Arguably the most natural algorithm is Gradient-Descent-Ascent (GDA), however since the 1970s, conventional wisdom has argued that it fails to converge even on simple problems. This failure spurred the extensive literature on modifying GDA with extragradients, optimism, momentum, anchoring, etc. In contrast, we show that GDA converges in its original form by simply using a judicious choice of stepsizes.
+  The key innovation is the proposal of unconventional stepsize schedules that are time-varying, asymmetric, and (most surprisingly) periodically negative. We show that all three properties are necessary for convergence, and that altogether this enables GDA to converge on the classical counterexamples (e.g., unconstrained convex-concave problems). The core intuition is that although negative stepsizes make backward progress, they de-synchronize the min/max variables (overcoming the cycling issue of GDA) and lead to a slingshot phenomenon in which the forward progress in the other iterations is overwhelmingly larger. This results in fast overall convergence. Geometrically, the slingshot dynamics leverage the non-reversibility of gradient flow: positive/negative steps cancel to first order, yielding a second-order net movement in a new direction that leads to convergence and is otherwise impossible for GDA to move in. Joint work with Henry Shugart.*
 
 
   
