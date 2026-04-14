@@ -19,41 +19,21 @@ The team brings together researchers from CMAP specializing in the broad area of
 
 ## Research themes
 
-- *Machine Learning and Artificial Intelligence* 
+- *Machine Learning and Artificial Intelligence*: High-dimensional learning, neural networks, deep learning, adaptive control and model-free stochastic control, weakly supervised learning, stochastic optimization, reinforcement learning, generative models.
 
-  High-dimensional learning, neural networks, deep learning, adaptive control and model-free stochastic control, weakly supervised learning, stochastic optimization, reinforcement learning, generative models.
-  
-- *Statistical Learning* 
+- *Statistical Learning*: Empirical processes, random forests, kernel methods, missing data, principal and functional component analysis, sparse estimation, federated learning, transfer learning.
+- *Image and Signal Processing*: Multi-scale analysis, unsupervised classification, deep learning.
 
-  Empirical processes, random forests, kernel methods, missing data, principal and functional component analysis, sparse estimation, federated learning, transfer learning.
-  
-- *Image and Signal Processing* 
+- *Bayesian Methods*: Bayesian inference, Bayesian asymptotic statistics, Bayesian networks.
 
-  Multi-scale analysis, unsupervised classification, deep learning.
-  
-- *Bayesian Methods*
+- *Statistical Modeling for Life Sciences*: Model estimation, validation, and selection, mixed-effects models, pharmacokinetics.
 
-  Bayesian inference, Bayesian asymptotic statistics, Bayesian networks.
-- *Statistical Modeling for Life Sciences*
+- *Markov Processes and Markov Chains*: Numerical approximation of non-linear dynamics (control, mean-field), dynamic programming equations, inference for continuous-time processes, hidden Markov models.
 
-  Model estimation, validation, and selection, mixed-effects models, pharmacokinetics.
-  
-- *Markov Processes and Markov Chains*
+- *Uncertainty Quantification*: Identification and propagation of uncertainties in numerical codes, intrusive and non-intrusive methods, chaos decomposition, Gaussian processes, metamodeling and response surface construction, design of numerical experiments, sensitivity analysis, robust optimization, risk analysis. 
 
-  Numerical approximation of non-linear dynamics (control, mean-field), dynamic programming equations, inference for continuous-time processes, hidden Markov models.
-  
-- *Uncertainty Quantification*
+- *Stochastic Simulation*: Particle methods, Markov Chain Monte Carlo (MCMC), rare events, stochastic algorithms, bandits, Monte Carlo regression, stochastic optimization, parallel computing.
 
-  Identification and propagation of uncertainties in numerical codes, intrusive and non-intrusive methods, chaos decomposition, Gaussian processes, metamodeling and response surface construction, design of numerical experiments, sensitivity analysis, robust optimization, risk analysis.
-  
-- *Stochastic Simulation*
+- *Generative Models in AI*: Diffusion models, variational autoencoders, normalizing flows, energy-based models, links with optimal transport.
 
-  Particle methods, Markov Chain Monte Carlo (MCMC), rare events, stochastic algorithms, bandits, Monte Carlo regression, stochastic optimization, parallel computing.
-  
-- *Generative Models in AI*
-
-  Diffusion models, variational autoencoders, normalizing flows, energy-based models, links with optimal transport.
-  
-- *Mathematical Statistics*
-
-  Non-parametric estimation, model selection, classification, dimension reduction, robust statistics.
+- *Mathematical Statistics*: Non-parametric estimation, model selection, classification, dimension reduction, robust statistics.
