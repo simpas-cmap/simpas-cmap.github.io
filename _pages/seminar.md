@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Upcoming Seminars
 
-#### Wednesday, April 15th, 2026 (SGS)
+#### Wednesday, April 15, 2026 (13h-14h) (SGS)
 
 - **Jean-Baptiste Fermanian:** Class conditional conformal prediction for multiple inputs by p-value aggregation
   <details>
