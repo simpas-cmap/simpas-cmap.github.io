@@ -22,6 +22,7 @@ The team brings together researchers from CMAP specializing in the broad area of
 - *Machine Learning and Artificial Intelligence*: High-dimensional learning, neural networks, deep learning, adaptive control and model-free stochastic control, weakly supervised learning, stochastic optimization, reinforcement learning, generative models.
 
 - *Statistical Learning*: Empirical processes, random forests, kernel methods, missing data, principal and functional component analysis, sparse estimation, federated learning, transfer learning.
+
 - *Image and Signal Processing*: Multi-scale analysis, unsupervised classification, deep learning.
 
 - *Bayesian Methods*: Bayesian inference, Bayesian asymptotic statistics, Bayesian networks.
