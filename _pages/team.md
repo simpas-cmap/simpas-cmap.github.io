@@ -8,20 +8,21 @@ nav_order: 2
 
 ### Permanent Members
 
-- Stefano De Marco (professeur)
-- Erwan Le Pennec (professeur)
-- Josselin Garnier (professeur)
-- Karim Lounici (professeur)
-- Clément Rey (professeur assistant)
-- Aymeric Dieuleveut (professeur)
-- Rémi Flamary (professeur)
-- El Mahdi El Mhamdi (professeur assistant monge)
-- Gauthier Vermandel (chercheur)
-- Alain Durmus (professeur)
-- Solenne Gaucher (professeur assistant)
-- Luiz Chamon (professeur assistant monge)
-- Paul Mangold (professeur assistant)
-- Clément Bonet (professeur assistant)
+- [Clément Bonet](https://clbonet.github.io/) (professeur assistant)
+- [Luiz Chamon](https://luizchamon.com/) (professeur assistant monge)
+- [Stefano De Marco](http://www.cmap.polytechnique.fr/~demarco/) (professeur)
+- [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) (professeur)
+- [Alain Durmus](https://alain.perso.math.cnrs.fr/) (professeur)
+- [El Mahdi El Mhamdi](https://elmahdielmhamdi.com/) (professeur assistant monge)
+- [Rémi Flamary](https://remi.flamary.com/) (professeur)
+- [Josselin Garnier ](https://josselin-garnier.org/)(professeur)
+- [Solenne Gaucher](https://solennegaucher.github.io/) (professeur assistant)
+- [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) (professeur)
+- [Karim Lounici](https://klounici.github.io/) (professeur)
+- [Paul Mangold](https://pmangold.fr/) (professeur assistant)
+- [Clément Rey](http://www.cmapx.polytechnique.fr/~clement.rey/) (professeur assistant)
+- [Gauthier Vermandel](https://vermandel.org/) (chercheur)
+
 
 ### Post-doc
 
