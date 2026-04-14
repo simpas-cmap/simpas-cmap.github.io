@@ -16,3 +16,7 @@ html[data-theme=dark] {
   font-family: serif; 
   color: var(--group-meeting-label-color) !important;
 }
+
+.abstract-text {
+  font-style: italic;
+}
