@@ -49,7 +49,6 @@ nav_order: 3
   
 
 - **Pierre-Cyril Aubin-Frankowski:** A gradient flow for every c(x, y) cost: EVI-inspired convexity.
- 
   <details>
     <summary>Abstract</summary>
     <div class="abstract-text">
