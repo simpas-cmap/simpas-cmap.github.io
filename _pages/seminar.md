@@ -30,14 +30,6 @@ nav_order: 3
   
   </details>
   
-
-- **Marguerite Petit-Talamon:** Variational Inference with Mixtures of Isotropic Gaussians.
-  <details>
-    <summary>Abstract</summary>   
-    <div class="abstract-text">
-      Variational inference (VI) is a popular approach in Bayesian inference, that looks for the best approximation of the posterior distribution within a parametric family, minimizing a loss that is typically the (reverse) Kullback-Leibler (KL) divergence. In this paper, we focus on the following parametric family: mixtures of isotropic Gaussians (i.e., with diagonal covariance matrices proportional to the identity) and uniform weights. We develop a variational framework and provide efficient algorithms suited for this family. In contrast with mixtures of Gaussian with generic covariance matrices, this choice presents a balance between accurate approximations of multimodal Bayesian posteriors, while being memory and computationally efficient. Our algorithms implement gradient descent on the location of the mixture components (the modes of the Gaussians), and either (an entropic) Mirror or Bures descent on their variance parameters. We illustrate the performance of our algorithms on numerical experiments. From https://arxiv.org/abs/2506.13613.
-    </div>  
-  </details>
   
 - **Anna Korba:** A Computable Measure of Suboptimality for Entropy-Regularised Variational Objectives.
   <details>
