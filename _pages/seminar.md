@@ -8,51 +8,6 @@ nav_order: 3
 
 ## Upcoming Seminars
 
-#### Wednesday, April 15, 2026 (13h-14h) (SGS)
-
-- **Jean-Baptiste Fermanian:** Class conditional conformal prediction for multiple inputs by p-value aggregation
-  <details>
-    <summary>Abstract</summary>   
-    <div class="abstract-text">
-      Conformal prediction methods are statistical tools designed to quantify uncertainty and generate predictive sets with guaranteed coverage probabilities. This work introduces a refinement to these methods for classification tasks, specifically tailored for scenarios where multiple observations (multi-inputs) of a single instance are available at prediction time. Our approach is particularly motivated by applications in citizen science, where multiple images of the same plant or animal are captured by individuals. Our method integrates the information from each observation into conformal prediction, enabling a reduction in the size of the predicted label set while preserving the required class-conditional coverage guarantee. The approach is based on the aggregation of conformal p-values computed from each observation of a multi-input. By exploiting the exact distribution of these p-values, we propose a general aggregation framework using an abstract scoring function, encompassing many classical statistical tools. Knowledge of this distribution also enables refined versions of standard strategies, such as majority voting. We evaluate our method on simulated and real data, with a particular focus on Pl@ntNet, a prominent citizen science platform that facilitates the collection and identification of plant species through user-submitted images.
-    </div>
-  </details>
-  
-
-#### <span class="group-meeting-label">Group Meeting</span> Thursday, April 16, 2026 (10h-12h) (SGM)
-
-- **Clément Bonet:** Introduction to First-order Optimization Methods in Wasserstein Space.
-  <details>
-    <summary>Abstract</summary>   
-    <div class="abstract-text">
-      As the problem of minimizing functionals on the Wasserstein space encompasses many applications in machine learning, different optimization algorithms on Rd have received their counterpart analog on the Wasserstein space. We will first focus on lifting the mirror descent algorithm. This algorithm has been introduced to better capture the geometry of the function to minimize and is provably convergent under appropriate (namely relative) smoothness and convexity conditions. Adapting these notions to the Wasserstein space, we prove guarantees of convergence of some Wasserstein-gradient-based discrete-time schemes for new pairings of objective functionals and regularizers. Then, we will focus on lifting the Convex-Concave procedure which is tailored to deal with Difference-of-Convex functionals.
-    </div>
-  
-  </details>
-  
-  
-- **Anna Korba:** A Computable Measure of Suboptimality for Entropy-Regularised Variational Objectives.
-  <details>
-    <summary>Abstract</summary>
-    <div class="abstract-text">
-      Several emerging post-Bayesian methods target a probability distribution for which an entropy-regularised variational objective is minimised. This increased flexibility introduces a computational challenge, as one loses access to an explicit unnormalised density for the target. To mitigate this difficulty, we introduce a novel measure of suboptimality called ‘gradient discrepancy’, and in particular a ‘kernel’ gradient discrepancy (KGD) that can be explicitly computed. In the standard Bayesian context, KGD coincides with the kernel Stein discrepancy (KSD), and we obtain a novel characterisation of KSD as measuring the size of a variational gradient. Outside this familiar setting, KGD enables novel sampling algorithms to be developed and compared, even when unnormalised densities cannot be obtained. To illustrate this point several novel algorithms are proposed and studied, including a natural generalisation of Stein variational gradient descent, with applications to mean-field neural networks and predictively oriented posteriors presented. On the theoretical side, our principal contribution is to establish sufficient conditions for desirable properties of KGD, such as continuity and convergence control. From https://arxiv.org/abs/2509.10393.
-    </div>
-  </details>
-  
-
-- **Pierre-Cyril Aubin-Frankowski:** A gradient flow for every c(x, y) cost: EVI-inspired convexity.
-  <details>
-    <summary>Abstract</summary>
-    <div class="abstract-text">
-      How to go beyond the square distance d^2 in optimization algorithms and flows in metric spaces? Rooted in cross-differences, the convergence theory to the continuous flow is investigated is based on a (discrete) evolution variational inequality (EVI) which enjoys similar properties to the EVI with d^2 regularizer. This provides a theoretical framework for studying splitting schemes beyond the usual implicit Euler in gradient flows. This talk is based on the works https://arxiv.org/abs/2305.04917 with Flavien Léger (INRIA Paris), and https://arxiv.org/abs/2505.00559 (Journal of Functional Analysis 2026) with Giacomo Sodini and Ulisse Stefanelli (Uni Vienna).
-    </div>
-  </details>
-
-
-#### Wednesday, April 22, 2026 
-
-- **Maxime Haddouche:** *To be announced*
-
 
 
 #### Tuesday, May 12, 2026 (11h-12h) (SGS)
@@ -70,6 +25,47 @@ nav_order: 3
   
   
 ## Past Seminars
+
+
+#### <span class="group-meeting-label">Group Meeting</span> Thursday, April 16, 2026 (10h-12h) (SGM)
+
+- **Clément Bonet:** Introduction to First-order Optimization Methods in Wasserstein Space.
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      As the problem of minimizing functionals on the Wasserstein space encompasses many applications in machine learning, different optimization algorithms on Rd have received their counterpart analog on the Wasserstein space. We will first focus on lifting the mirror descent algorithm. This algorithm has been introduced to better capture the geometry of the function to minimize and is provably convergent under appropriate (namely relative) smoothness and convexity conditions. Adapting these notions to the Wasserstein space, we prove guarantees of convergence of some Wasserstein-gradient-based discrete-time schemes for new pairings of objective functionals and regularizers. Then, we will focus on lifting the Convex-Concave procedure which is tailored to deal with Difference-of-Convex functionals.
+    </div>
+
+  </details>
+
+
+- **Anna Korba:** A Computable Measure of Suboptimality for Entropy-Regularised Variational Objectives.
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      Several emerging post-Bayesian methods target a probability distribution for which an entropy-regularised variational objective is minimised. This increased flexibility introduces a computational challenge, as one loses access to an explicit unnormalised density for the target. To mitigate this difficulty, we introduce a novel measure of suboptimality called ‘gradient discrepancy’, and in particular a ‘kernel’ gradient discrepancy (KGD) that can be explicitly computed. In the standard Bayesian context, KGD coincides with the kernel Stein discrepancy (KSD), and we obtain a novel characterisation of KSD as measuring the size of a variational gradient. Outside this familiar setting, KGD enables novel sampling algorithms to be developed and compared, even when unnormalised densities cannot be obtained. To illustrate this point several novel algorithms are proposed and studied, including a natural generalisation of Stein variational gradient descent, with applications to mean-field neural networks and predictively oriented posteriors presented. On the theoretical side, our principal contribution is to establish sufficient conditions for desirable properties of KGD, such as continuity and convergence control. From https://arxiv.org/abs/2509.10393.
+    </div>
+  </details>
+
+
+- **Pierre-Cyril Aubin-Frankowski:** A gradient flow for every c(x, y) cost: EVI-inspired convexity.
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      How to go beyond the square distance d^2 in optimization algorithms and flows in metric spaces? Rooted in cross-differences, the convergence theory to the continuous flow is investigated is based on a (discrete) evolution variational inequality (EVI) which enjoys similar properties to the EVI with d^2 regularizer. This provides a theoretical framework for studying splitting schemes beyond the usual implicit Euler in gradient flows. This talk is based on the works https://arxiv.org/abs/2305.04917 with Flavien Léger (INRIA Paris), and https://arxiv.org/abs/2505.00559 (Journal of Functional Analysis 2026) with Giacomo Sodini and Ulisse Stefanelli (Uni Vienna).
+    </div>
+  </details>
+
+
+#### Wednesday, April 15, 2026 (13h-14h) (SGS)
+
+- **Jean-Baptiste Fermanian:** Class conditional conformal prediction for multiple inputs by p-value aggregation
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      Conformal prediction methods are statistical tools designed to quantify uncertainty and generate predictive sets with guaranteed coverage probabilities. This work introduces a refinement to these methods for classification tasks, specifically tailored for scenarios where multiple observations (multi-inputs) of a single instance are available at prediction time. Our approach is particularly motivated by applications in citizen science, where multiple images of the same plant or animal are captured by individuals. Our method integrates the information from each observation into conformal prediction, enabling a reduction in the size of the predicted label set while preserving the required class-conditional coverage guarantee. The approach is based on the aggregation of conformal p-values computed from each observation of a multi-input. By exploiting the exact distribution of these p-values, we propose a general aggregation framework using an abstract scoring function, encompassing many classical statistical tools. Knowledge of this distribution also enables refined versions of standard strategies, such as majority voting. We evaluate our method on simulated and real data, with a particular focus on Pl@ntNet, a prominent citizen science platform that facilitates the collection and identification of plant species through user-submitted images.
+    </div>
+  </details>
 
 #### Wednesday, April 8, 2026 (13h-14h) (SGS)
 
