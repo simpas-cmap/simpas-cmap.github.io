@@ -9,6 +9,34 @@ nav_order: 3
 ## Upcoming Seminars
 
 
+#### Wednesday, May 20, 2026 (11h-12h) (SGS)
+
+- **Ana Stoica:** Policy Design in Long-Run Welfare Dynamics
+  <details>
+    <summary>Abstract</summary>
+    Improving social welfare is a complex challenge requiring policymakers to optimize objectives across multiple time horizons. Evaluating the impact of such policies presents a fundamental challenge, as those that appear suboptimal in the short run may yield significant long-term benefits. We tackle this challenge by analyzing the long-term dynamics of two prominent policy frameworks: Rawlsian policies, which prioritize those with the greatest need, and utilitarian policies, which maximize immediate welfare gains. Conventional wisdom suggests these policies are at odds, as Rawlsian policies are assumed to come at the cost of reducing the average social welfare, which their utilitarian counterparts directly optimize. We challenge this assumption by analyzing these policies in a sequential decision-making framework where individuals' welfare levels stochastically decay over time, and policymakers can intervene to prevent this decay. Under reasonable assumptions, we prove that interventions following Rawlsian policies can outperform utilitarian policies in the long run, even when the latter dominate in the short run. We characterize the exact conditions under which Rawlsian policies can outperform utilitarian policies. Our results underscore the necessity of considering long-term horizons in designing and evaluating welfare policies; the true efficacy of even well-established policies may only emerge over time. Beyond this, our work reveals novel technical insights into the theory of stochastic processes. This is joint work with Jiduan Wu, Rediet Abebe, and Moritz Hardt, and was presented at ICLR'25. 
+  </details>
+
+
+
+#### Tuesday, June 2, 2026 (14h-15h) (SGS)
+
+- **Boris Bonev:** Geometric Machine Learning for ML Probabilistic Weather Prediction
+  <details>
+    <summary>Abstract</summary>
+    Machine learning has recently enabled fast and accurate surrogate models for numerical weather and climate prediction. However, many current architectures struggle on extreme events, introduce spurious artifacts or instabilities when they ignore the spherical geometry of the Earth, and are often tightly coupled to a particular input grid or resolution, limiting flexibility for downstream applications. These shortcomings highlight a mismatch between black‑box models and more traditional numerical methods, which encode underlying physical and geometric properties. Neural operators address part of this gap by learning solution operators of partial differential equations in a grid‑agnostic manner, yet standard Fourier Neural Operators (FNOs) break down on the sphere, where the flat‑geometry Fourier transform induces artifacts and excessive dissipation.
+
+    This talk presents geometric neural operators that respect the symmetries and topology of the sphere, with a particular focus on applications to the chaotic dynamics of Earth's atmosphere. The Spherical Fourier Neural Operator (SFNO) is formulated via Driscoll–Healy's convolution theorem, linking spherical harmonic transforms to group convolutions on the sphere and yielding rotationally equivariant, grid‑invariant models capable of stable, year‑long autoregressive rollouts with physically plausible dynamics. Building on insights from hyperbolic PDE solvers, a principled framework is introduced for incorporating localized integral operators using quadrature‑based discrete–continuous convolutions on both Euclidean and spherical geometries to capture sharp fronts and local extremes. To complement convolutional approaches, a generalized attention mechanism for spherical domains is developed, allowing Transformer‑style architectures to natively process data on the two‑dimensional sphere. This discretization‑agnostic spherical attention incorporates numerical quadrature weights into a continuous spherical formulation, producing geometrically faithful attention that is approximately rotationally equivariant.
+
+    The practical impact of these ideas is demonstrated with FourCastNet 3, a scalable probabilistic weather forecasting system cast as a hidden Markov model built from spherical signal‑processing primitives. FourCastNet 3 is trained on 1000+ GPUs using flexible domain-parallelism paradigms inspired from traditional HPC methods. The resulting method matches or exceeds leading conventional ensemble systems and state‑of‑the‑art diffusion models while delivering 8–60× faster forecasts, positioning it as a robust foundation for next‑generation weather and climate modeling and downscaling systems.
+  </details>
+ 
+
+---
+  
+  
+## Past Seminars
+
 
 #### Tuesday, May 12, 2026 (11h30-12h30) (SGS)
 
@@ -18,21 +46,6 @@ nav_order: 3
       Solving min-max problems is a central question in optimization, games, learning, and controls. Arguably the most natural algorithm is Gradient-Descent-Ascent (GDA), however since the 1970s, conventional wisdom has argued that it fails to converge even on simple problems. This failure spurred the extensive literature on modifying GDA with extragradients, optimism, momentum, anchoring, etc. In contrast, we show that GDA converges in its original form by simply using a judicious choice of stepsizes.   
       The key innovation is the proposal of unconventional stepsize schedules that are time-varying, asymmetric, and (most surprisingly) periodically negative. We show that all three properties are necessary for convergence, and that altogether this enables GDA to converge on the classical counterexamples (e.g., unconstrained convex-concave problems). The core intuition is that although negative stepsizes make backward progress, they de-synchronize the min/max variables (overcoming the cycling issue of GDA) and lead to a slingshot phenomenon in which the forward progress in the other iterations is overwhelmingly larger. This results in fast overall convergence. Geometrically, the slingshot dynamics leverage the non-reversibility of gradient flow: positive/negative steps cancel to first order, yielding a second-order net movement in a new direction that leads to convergence and is otherwise impossible for GDA to move in. Joint work with Henry Shugart.
   </details>
-
-
-#### Wednesday, May 20, 2026 (11h-12h) (SGS)
-
-- **Ana Stoica:** Policy Design in Long-Run Welfare Dynamics
-  <details>
-    <summary>Abstract</summary>
-    Improving social welfare is a complex challenge requiring policymakers to optimize objectives across multiple time horizons. Evaluating the impact of such policies presents a fundamental challenge, as those that appear suboptimal in the short run may yield significant long-term benefits. We tackle this challenge by analyzing the long-term dynamics of two prominent policy frameworks: Rawlsian policies, which prioritize those with the greatest need, and utilitarian policies, which maximize immediate welfare gains. Conventional wisdom suggests these policies are at odds, as Rawlsian policies are assumed to come at the cost of reducing the average social welfare, which their utilitarian counterparts directly optimize. We challenge this assumption by analyzing these policies in a sequential decision-making framework where individuals' welfare levels stochastically decay over time, and policymakers can intervene to prevent this decay. Under reasonable assumptions, we prove that interventions following Rawlsian policies can outperform utilitarian policies in the long run, even when the latter dominate in the short run. We characterize the exact conditions under which Rawlsian policies can outperform utilitarian policies. Our results underscore the necessity of considering long-term horizons in designing and evaluating welfare policies; the true efficacy of even well-established policies may only emerge over time. Beyond this, our work reveals novel technical insights into the theory of stochastic processes. This is joint work with Jiduan Wu, Rediet Abebe, and Moritz Hardt, and was presented at ICLR'25. 
-  </details>
- 
-
----
-  
-  
-## Past Seminars
 
 
 #### <span class="group-meeting-label">Group Meeting</span> Thursday, April 16, 2026 (10h-12h) (SGM)
