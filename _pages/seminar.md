@@ -9,16 +9,6 @@ nav_order: 3
 ## Upcoming Seminars
 
 
-#### Wednesday, May 20, 2026 (11h-12h) (SGS)
-
-- **Ana Stoica:** Policy Design in Long-Run Welfare Dynamics
-  <details>
-    <summary>Abstract</summary>
-    Improving social welfare is a complex challenge requiring policymakers to optimize objectives across multiple time horizons. Evaluating the impact of such policies presents a fundamental challenge, as those that appear suboptimal in the short run may yield significant long-term benefits. We tackle this challenge by analyzing the long-term dynamics of two prominent policy frameworks: Rawlsian policies, which prioritize those with the greatest need, and utilitarian policies, which maximize immediate welfare gains. Conventional wisdom suggests these policies are at odds, as Rawlsian policies are assumed to come at the cost of reducing the average social welfare, which their utilitarian counterparts directly optimize. We challenge this assumption by analyzing these policies in a sequential decision-making framework where individuals' welfare levels stochastically decay over time, and policymakers can intervene to prevent this decay. Under reasonable assumptions, we prove that interventions following Rawlsian policies can outperform utilitarian policies in the long run, even when the latter dominate in the short run. We characterize the exact conditions under which Rawlsian policies can outperform utilitarian policies. Our results underscore the necessity of considering long-term horizons in designing and evaluating welfare policies; the true efficacy of even well-established policies may only emerge over time. Beyond this, our work reveals novel technical insights into the theory of stochastic processes. This is joint work with Jiduan Wu, Rediet Abebe, and Moritz Hardt, and was presented at ICLR'25. 
-  </details>
-
-
-
 #### Tuesday, June 2, 2026 (14h-15h) (SGS)
 
 - **Boris Bonev:** Geometric Machine Learning for ML Probabilistic Weather Prediction
@@ -36,6 +26,15 @@ nav_order: 3
   
   
 ## Past Seminars
+
+
+#### Wednesday, May 20, 2026 (11h-12h) (SGS)
+
+- **Ana Stoica:** Policy Design in Long-Run Welfare Dynamics
+  <details>
+    <summary>Abstract</summary>
+    Improving social welfare is a complex challenge requiring policymakers to optimize objectives across multiple time horizons. Evaluating the impact of such policies presents a fundamental challenge, as those that appear suboptimal in the short run may yield significant long-term benefits. We tackle this challenge by analyzing the long-term dynamics of two prominent policy frameworks: Rawlsian policies, which prioritize those with the greatest need, and utilitarian policies, which maximize immediate welfare gains. Conventional wisdom suggests these policies are at odds, as Rawlsian policies are assumed to come at the cost of reducing the average social welfare, which their utilitarian counterparts directly optimize. We challenge this assumption by analyzing these policies in a sequential decision-making framework where individuals' welfare levels stochastically decay over time, and policymakers can intervene to prevent this decay. Under reasonable assumptions, we prove that interventions following Rawlsian policies can outperform utilitarian policies in the long run, even when the latter dominate in the short run. We characterize the exact conditions under which Rawlsian policies can outperform utilitarian policies. Our results underscore the necessity of considering long-term horizons in designing and evaluating welfare policies; the true efficacy of even well-established policies may only emerge over time. Beyond this, our work reveals novel technical insights into the theory of stochastic processes. This is joint work with Jiduan Wu, Rediet Abebe, and Moritz Hardt, and was presented at ICLR'25.
+  </details>
 
 
 #### Tuesday, May 12, 2026 (11h30-12h30) (SGS)
