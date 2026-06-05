@@ -9,6 +9,25 @@ nav_order: 3
 ## Upcoming Seminars
 
 
+#### <span class="group-meeting-label">Group Meeting</span> Thursday, June 18, 2026 (10h-12h) (SGM)
+
+- **El Mahdi El Mhamdi:** TBA
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      TBA
+    </div>
+
+  </details>
+ 
+
+---
+  
+  
+## Past Seminars
+
+
+
 #### Tuesday, June 2, 2026 (14h-15h) (SGS)
 
 - **Boris Bonev:** Geometric Machine Learning for ML Probabilistic Weather Prediction
@@ -20,12 +39,6 @@ nav_order: 3
 
     The practical impact of these ideas is demonstrated with FourCastNet 3, a scalable probabilistic weather forecasting system cast as a hidden Markov model built from spherical signal‑processing primitives. FourCastNet 3 is trained on 1000+ GPUs using flexible domain-parallelism paradigms inspired from traditional HPC methods. The resulting method matches or exceeds leading conventional ensemble systems and state‑of‑the‑art diffusion models while delivering 8–60× faster forecasts, positioning it as a robust foundation for next‑generation weather and climate modeling and downscaling systems.
   </details>
- 
-
----
-  
-  
-## Past Seminars
 
 
 #### Wednesday, May 20, 2026 (11h-12h) (SGS)
