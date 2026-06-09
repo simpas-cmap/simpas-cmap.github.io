@@ -27,6 +27,7 @@ nav_order: 2
 ### Post-doc
 
 - Charlie Sire (Garnier)
+- Manu Upadhyaya (Dieuleveut)
 - Thibaut Germain (Flamary, Lounici)
 
 ### PhD students
