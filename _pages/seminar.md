@@ -11,13 +11,28 @@ nav_order: 3
 
 #### <span class="group-meeting-label">Group Meeting</span> Thursday, June 18, 2026 (10h-12h) (SGM)
 
-- **El Mahdi El Mhamdi:** TBA
+- **Julien Fageot:** Byzantine Machine Learning: MultiKrum and an optimal notion of robustness
   <details>
     <summary>Abstract</summary>
     <div class="abstract-text">
-      TBA
+      Aggregation rules are the cornerstone of distributed (or federated) learning in the presence of adversaries, under the so-called Byzantine threat model. They are also interesting mathematical objects from the point of view of robust mean estimation. The Krum aggregation rule has been extensively studied, and endowed with formal robustness and convergence guarantees. Yet, MultiKrum, a natural extension of Krum, is often preferred in practice for its superior empirical performance, even though no theoretical guarantees were available until now. In this work, we provide the first proof that MultiKrum is a robust aggregation rule, and bound its robustness coefficient. To do so, we introduce , the optimal robustness coefficient of an aggregation rule, which quantifies the accuracy of mean estimation in the presence of adversaries in a tighter manner compared with previously adopted notions of robustness. We then construct an upper and a lower bound on MultiKrum's robustness coefficient. We also characterize MultiKrum's breakdown point and show that it is optimal. As a by-product, we also improve on the best-known bounds on Krum's robustness coefficient. We show that MultiKrum's bounds are never worse than Krum's, and better in realistic regimes. We illustrate this analysis by an experimental investigation on the quality of our upper and lower bounds.
     </div>
+  </details>
 
+- **Martin Beaufils:** BRoADflip: Backdooring Robust Aggregators via Sub-Differentiability with Clean-Image Poisoning
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      Among existing threats to machine learning, label-only poisoning is particularly stealthy: by modifying only training labels, an attacker can significantly alter a model's behavior without changing the input features, e.g. with clean-image poisoning. The state-of-the-art FLIP method shows that backdoors can be induced using label poisoning alone. In this work, we first show that the effectiveness of FLIP degrades across datasets, model architectures, and in the presence of robust aggregation defenses. Moreover, we identify an inconsistency between its formulation and its implementation, which we resolve. Our contributions are threefold: (i) we resolve a formulation inconsistency in FLIP and extend it to federated learning with BRoADflip; (ii) we establish convergence of the label optimization problem to Clarke critical points under mild regularity assumptions; and (iii) we design an aggregator-aware trigger mechanism for label-only backdoor attacks. In the same setup for which FLIP was designed, i.e., against the Mean aggregator, only  label flips suffice for BRoADflip to reach  attack success rate (ASR) without degrading the overall performance, whereas FLIP requires  to reach only  ASR and incurs a  drop. Moreover, we show that BRoADflip consistently bypasses state of the art robust aggregation defenses (e.g., Krum and MultiKrum) while flipping as little as and  of labels, respectively, whereas FLIP fails. To the best of our knowledge, this is the first work to formulate the attacker's optimization as stochastic subgradient problem over a nonsmooth trajectory-matching objective, and to prove its convergence. From an empirical angle, this is also the first successful label-only backdoor attack against sub-differentiable, robust aggregation rules.
+    </div>
+  </details>
+
+- **Adrien Majka:** The Strong, weak and benign Goodhart’s law.An independence-free and paradigm-agnostic formalisation
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      Goodhart's law is a famous adage in policy-making stating that ``When a measure becomes a target, it ceases to be a good measure''. As machine learning models and the optimization capacity to train them grow, increasing empirical evidence reinforced the belief in the validity of this law, without however formalizing it. Recently, a few attempts were made to formalize Goodhart's law, either by categorizing variants of it, or by looking at how optimizing a proxy metric affects the optimization of an intended goal. In this work, we relax the simplifying independence assumption, made in previous works, and the assumption on the learning paradigm made in most of them, to study the effect of the coupling between the proxy metric and the intended goal on Goodhart's law. Our results show that in the case where the tail of the goal strictly dominates the tail of the discrepancy, the dependence does not change the nature of Goodhart's effect. However, in the light tailed goal and heavy tailed discrepancy case, we provide an example where over-optimization occurs at a rate inversely proportional to the heavy-tailedness of the discrepancy between the goal and the metric. To the best of our knowledge, this is the first formalization of Goodhart's law that relieved both the assumption on independence and that does not assume knowledge of the learning paradigm.
+    </div>
   </details>
  
 
