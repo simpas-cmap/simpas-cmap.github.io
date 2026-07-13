@@ -8,6 +8,15 @@ nav_order: 3
 
 ## Upcoming Seminars
 
+To be announced.
+
+ 
+
+---
+  
+  
+## Past Seminars
+
 
 #### <span class="group-meeting-label">Group Meeting</span> Thursday, June 18, 2026 (10h-12h) (SGM)
 
@@ -34,12 +43,6 @@ nav_order: 3
       Goodhart's law is a famous adage in policy-making stating that ``When a measure becomes a target, it ceases to be a good measure''. As machine learning models and the optimization capacity to train them grow, increasing empirical evidence reinforced the belief in the validity of this law, without however formalizing it. Recently, a few attempts were made to formalize Goodhart's law, either by categorizing variants of it, or by looking at how optimizing a proxy metric affects the optimization of an intended goal. In this work, we relax the simplifying independence assumption, made in previous works, and the assumption on the learning paradigm made in most of them, to study the effect of the coupling between the proxy metric and the intended goal on Goodhart's law. Our results show that in the case where the tail of the goal strictly dominates the tail of the discrepancy, the dependence does not change the nature of Goodhart's effect. However, in the light tailed goal and heavy tailed discrepancy case, we provide an example where over-optimization occurs at a rate inversely proportional to the heavy-tailedness of the discrepancy between the goal and the metric. To the best of our knowledge, this is the first formalization of Goodhart's law that relieved both the assumption on independence and that does not assume knowledge of the learning paradigm.
     </div>
   </details>
- 
-
----
-  
-  
-## Past Seminars
 
 
 
