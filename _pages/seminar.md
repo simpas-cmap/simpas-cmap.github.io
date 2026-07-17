@@ -6,6 +6,9 @@ nav: true
 nav_order: 3
 ---
 
+
+If you are interested in presenting at the seminar, please contact us at <a href="mailto:ml-seminar@polytechnique.fr">ml-seminar@polytechnique.fr</a>.
+
 ## Upcoming Seminars
 
 To be announced.
