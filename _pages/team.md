@@ -29,6 +29,7 @@ nav_order: 2
 - Charlie Sire (Garnier)
 - Manu Upadhyaya (Dieuleveut)
 - Thibaut Germain (Flamary, Lounici)
+- Edgar Jaber (Garnier)
 
 ### PhD students
 
@@ -46,7 +47,6 @@ nav_order: 2
 - Benedicte Colnet (started 2020, supervision by Josse, ScornetG. Varoquaux)
 - Elisa Ndiaye (started 2021, supervision by Gobet, Celine Guivarch (CIRED))
 - Pierre Clavier (started 2021, supervision by Allassonnière, Le Pennec)
-- Quang Huy Tran (started 2021, supervision by Flamary, LouniciNicolas Courty)
 - Guillaume Chennetier (started 2021, supervision by Garnier)
 - Paul Lartaud (started 2021, supervision by Garnier)
 - Quentin Goepfert (started 2021, supervision by Garnier, Laure Giovangigli)
@@ -57,7 +57,6 @@ nav_order: 2
 - Wassim Bouaziz (started 2022, supervision by El Mhamdi, MoulinesNicolas Usunier)
 - Maxence Noble-Bourillot (started 2022, supervision by Durmus)
 - Samuel Gruffaz (started 2022, supervision by Durmus, Nicolas Vayatis)
-- Louis Grenioux (started 2022, supervision by Gabrie, Moulines)
 - Ali Abboud (started 2022, supervision by Garnier)
 - Raphael Carpintero Perez (started 2022, supervision by Garnier)
 - Antoine Van Biesbroeck (started 2022, supervision by Garnier)
@@ -149,5 +148,7 @@ nav_order: 2
 - Manon Rivoire (2020, 2024, phd)
 - Margaux Zaffran (2020, 2024, phd)
 - Gregoire Pacreau (2021, 2024, phd)
+- Quang Huy Tran (2021, 2024, phd)
 - Théo  Gnassounou (2022, 2025, phd)
+- Louis Grenioux (2022, 2025, phd)
 

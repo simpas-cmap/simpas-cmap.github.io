@@ -11,9 +11,15 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 ## Upcoming Seminars
 
-To be announced.
 
- 
+#### Tuesday, October 13, 2026 (11h-12h) (SGS)
+
+- **Adrien Bolland:** To be announced
+
+
+#### <span class="group-meeting-label">Group Meeting</span> Tuesday, October 20, 2026 (11h-12h) (SGM)
+
+- **Solenne Gaucher:** To be announced
 
 ---
   
@@ -39,7 +45,7 @@ To be announced.
     </div>
   </details>
 
-- **Adrien Majka:** The Strong, weak and benign Goodhart’s law.An independence-free and paradigm-agnostic formalisation
+- **Adrien Majka:** The Strong, weak and benign Goodhart’s law. An independence-free and paradigm-agnostic formalisation
   <details>
     <summary>Abstract</summary>
     <div class="abstract-text">
