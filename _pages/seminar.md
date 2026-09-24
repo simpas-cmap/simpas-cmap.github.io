@@ -21,6 +21,12 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 - **Solenne Gaucher:** To be announced
 
+
+
+#### Thursday, November 5, 2026 (11h-12h) (SGS)
+
+- **Théo Lacombe:** To be announced
+
 ---
   
   
