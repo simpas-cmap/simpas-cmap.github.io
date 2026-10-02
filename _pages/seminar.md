@@ -14,12 +14,22 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 #### Tuesday, October 13, 2026 (11h-12h) (SGS)
 
-- **Adrien Bolland:** To be announced
+- **Konstantinos Vlachas:** Value-Driven Digital Twinning via Generative Learning and Adaptive Reduced-Order Modeling
+  <details>
+    <summary>Abstract</summary>
+    Infrastructure operation and maintenance relies on many-query predictive and inverse tasks, which hinge on computational models that are both accurate and tractable in real time. However, the underlying physical systems are governed by nonlinear, high-dimensional dynamics and operate under stochastic and evolving conditions that often push their response beyond the assumptions under which models were built. Critically, static models, which are often limited in interpretability, brittle under extrapolation, and tied to their training conditions, cannot remain adequate across the full life cycle of a system, even when equipped with passive data assimilation. This work addresses this gap by formulating digital twinning as tracking an evolving system within a space of models. The resulting framework rests on three interconnected components: (i) reduced physics baselines that keep these tasks tractable and interpretable for PDE-governed dynamical systems, (ii) generative learning that builds on these baselines to construct families of models across operating regimes and extends them as the system evolves or unexpected events occur, and (iii) a value-driven strategy that quantifies the utility of candidate models under uncertainty, so that model adaptation is guided by the task at hand, such as damage assessment or maintenance planning. I will illustrate these ideas through my work on forward and inverse problems and outline how they form the basis of my SNSF Postdoc.Mobility project at ENSAM.
+  </details>
+
 
 
 #### <span class="group-meeting-label">Group Meeting</span> Tuesday, October 20, 2026 (11h-12h) (SGM)
 
 - **Solenne Gaucher:** To be announced
+
+
+#### Tuesday, October 27, 2026 (11h-12h) (SGS)
+
+- **Adrien Bolland:** To be announced
 
 
 
