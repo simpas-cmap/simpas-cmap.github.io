@@ -8,6 +8,7 @@ nav_order: 2
 
 ### Permanent Members
 
+- [Jamal Atif](https://www.polytechnique.edu/en/directory/atif-jamal) (professeur)
 - [Clément Bonet](https://clbonet.github.io/) (professeur assistant)
 - [Luiz Chamon](https://luizchamon.com/) (professeur assistant monge)
 - [Stefano De Marco](http://www.cmap.polytechnique.fr/~demarco/) (professeur)
@@ -21,6 +22,7 @@ nav_order: 2
 - [Karim Lounici](https://klounici.github.io/) (professeur)
 - [Paul Mangold](https://pmangold.fr/) (professeur assistant)
 - [Clément Rey](http://www.cmapx.polytechnique.fr/~clement.rey/) (professeur assistant)
+- [Eloi Tanguy](https://eloitanguy.github.io) (CNRS researcher)
 - [Gauthier Vermandel](https://vermandel.org/) (chercheur)
 
 
