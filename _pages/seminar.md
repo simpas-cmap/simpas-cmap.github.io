@@ -44,6 +44,11 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 - **Théo Lacombe:** To be announced
 
+
+#### Thursday, November 19, 2026 (11h-12h) (SGM)
+
+- **Andreas Habring:** To be announced
+
 ---
   
   
