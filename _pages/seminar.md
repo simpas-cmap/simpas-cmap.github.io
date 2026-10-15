@@ -34,15 +34,15 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 
 
-#### Tuesday, October 27, 2026 (11h-12h) (SGS)
-
-- **Adrien Bolland:** To be announced
-
-
 
 #### Thursday, November 5, 2026 (11h-12h) (SGS)
 
 - **Théo Lacombe:** To be announced
+
+
+#### Thursday, November 12, 2026 (11h-12h) (SGS)
+
+- **Adrien Bolland:** To be announced
 
 
 #### Thursday, November 19, 2026 (11h-12h) (SGM)
