@@ -13,28 +13,6 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 
 
-#### <span class="group-meeting-label">Group Meeting</span> Tuesday, October 20, 2026 (11h-12h) (SGM)
-
-
-- **Gayane Tarturyan:** A Comprehensive View of Fairness through Distributional Stability
-  <details>
-    <summary>Abstract</summary>
-    <div class="abstract-text">
-      We view fairness as a property of distributional stability. Rather than assessing a predictor under a fixed data distribution, we study how its predictions change under perturbations that modify the composition of protected groups. A predictor is fair if it remains stable under such shifts. Under this perspective, several classical notions of fairness arise as stability with respect to specific perturbations, with the associated unfairness gap given by a Lipschitz constant of a prediction-rate functional. This formulation also yields guarantees that hold uniformly over a range of demographic compositions at test time, without requiring knowledge of the deployment distribution. It leads to a learning procedure based on convex combinations of reweighted predictors, formulated as a second-order cone program, for which we establish generalization bounds. Experiments on standard benchmarks illustrate the approach. Joint work with Charlotte Laclau and Stephan Clémençon.
-    </div>
-  </details>
-- **Marie Generalli-Lince:** Geometry of Relaxed Fair Regression: A Unified Framework for Aware and Unaware Settings
-  <details>
-    <summary>Abstract</summary>
-    <div class="abstract-text">
-      Fairness-accuracy trade-offs are a central concern in the deployment of fairness-aware machine learning methods. When sensitive attributes are unavailable at inference time–the so called unawareness setting, principled methods for obtaining accurate predictions under relaxed fairness constraints are largely missing. In this work, we address this gap by formulating regression under a demographic parity penalty as an optimal transport problem. Our framework, unifies both the <em>aware</em> and <em>unaware</em> settings and characterizes optimal prediction functions via optimal transport maps, under both squared Wasserstein-2 and Total Variation penalties. These results reveal that the choice of penalty reflects fundamentally different fairness philosophies: the Wasserstein penalty induces a smooth, population-wide compromise, while Total Variation enforces parity for a subset of individuals.
-    </div>
-  </details>
-
-
-
-
-
 #### Thursday, November 5, 2026 (11h-12h) (SGS)
 
 - **Théo Lacombe:** To be announced
@@ -53,6 +31,25 @@ If you are interested in presenting at the seminar, please contact us at <a href
   
   
 ## Past Seminars
+
+
+#### <span class="group-meeting-label">Group Meeting</span> Tuesday, October 20, 2026 (11h-12h) (SGM)
+
+
+- **Gayane Tarturyan:** A Comprehensive View of Fairness through Distributional Stability
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      We view fairness as a property of distributional stability. Rather than assessing a predictor under a fixed data distribution, we study how its predictions change under perturbations that modify the composition of protected groups. A predictor is fair if it remains stable under such shifts. Under this perspective, several classical notions of fairness arise as stability with respect to specific perturbations, with the associated unfairness gap given by a Lipschitz constant of a prediction-rate functional. This formulation also yields guarantees that hold uniformly over a range of demographic compositions at test time, without requiring knowledge of the deployment distribution. It leads to a learning procedure based on convex combinations of reweighted predictors, formulated as a second-order cone program, for which we establish generalization bounds. Experiments on standard benchmarks illustrate the approach. Joint work with Charlotte Laclau and Stephan Clémençon.
+    </div>
+  </details>
+- **Marie Generalli-Lince:** Geometry of Relaxed Fair Regression: A Unified Framework for Aware and Unaware Settings
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-text">
+      Fairness-accuracy trade-offs are a central concern in the deployment of fairness-aware machine learning methods. When sensitive attributes are unavailable at inference time–the so called unawareness setting, principled methods for obtaining accurate predictions under relaxed fairness constraints are largely missing. In this work, we address this gap by formulating regression under a demographic parity penalty as an optimal transport problem. Our framework, unifies both the <em>aware</em> and <em>unaware</em> settings and characterizes optimal prediction functions via optimal transport maps, under both squared Wasserstein-2 and Total Variation penalties. These results reveal that the choice of penalty reflects fundamentally different fairness philosophies: the Wasserstein penalty induces a smooth, population-wide compromise, while Total Variation enforces parity for a subset of individuals.
+    </div>
+  </details>
 
 
 #### Tuesday, October 13, 2026 (11h-12h) (SGS)
