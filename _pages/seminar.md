@@ -15,7 +15,13 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 #### Thursday, November 5, 2026 (11h-12h) (SGS)
 
-- **Théo Lacombe:** To be announced
+- **Théo Lacombe:** Learning Monge Maps with Constrained Drifting Models
+  <details>
+    <summary>Abstract</summary>
+      The estimation of optimal transport maps (a.k.a. Monge maps) is a central problem in optimal transport literature. Recent observations reveal that the flow map of the Wasserstein gradient flow of the relative entropy closely approximates—though does not exactly equal—the Monge map between a given source distribution and a Gaussian target. In this work, we demonstrate how the evolution equation governing this flow map can be corrected to form a constrained gradient flow that provably converges to the true Monge map. When the maps are parametrized as gradients of convex models (e.g. ICNN), we show that the resulting optimization scheme can be interpreted as a L2-natural gradient descent in the parameter space, and that this approach is further connected to the recently introduced drifting generative models when coupled with a Gauss--Newton update. On toy experiments, we empirically illustrate the clear advantage of using that L2-natural gradient instead of the Euclidean for estimating Monge maps in this framework.
+
+      Joint works with T. Dumont and F.-X. Vialard.
+  </details>
 
 
 #### Thursday, November 12, 2026 (11h-12h) (SGS)
