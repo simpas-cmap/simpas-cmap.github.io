@@ -22,7 +22,6 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 - **Andreas Habring:** To be announced
 
----
 
 #### Thursday, December 3, 2026 (11h-12h) (SGS)
 
@@ -33,6 +32,8 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
       Joint works with T. Dumont and F.-X. Vialard.
   </details>
+
+---
   
   
 ## Past Seminars
