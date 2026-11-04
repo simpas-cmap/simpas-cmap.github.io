@@ -10,6 +10,7 @@ nav_order: 2
 
 - [Jamal Atif](https://www.polytechnique.edu/en/directory/atif-jamal) (professeur)
 - [Clément Bonet](https://clbonet.github.io/) (professeur assistant)
+- [Boris Bonev](https://bonevbs.github.io) (professeur assistant monge)
 - [Luiz Chamon](https://luizchamon.com/) (professeur assistant monge)
 - [Stefano De Marco](http://www.cmap.polytechnique.fr/~demarco/) (professeur)
 - [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) (professeur)
@@ -18,6 +19,7 @@ nav_order: 2
 - [Rémi Flamary](https://remi.flamary.com/) (professeur)
 - [Josselin Garnier ](https://josselin-garnier.org/)(professeur)
 - [Solenne Gaucher](https://solennegaucher.github.io/) (professeur assistant)
+- [Andreas Habring](https://andreashabring.com) (professeur assistant)
 - [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/) (professeur)
 - [Karim Lounici](https://klounici.github.io/) (professeur)
 - [Paul Mangold](https://pmangold.fr/) (professeur assistant)
