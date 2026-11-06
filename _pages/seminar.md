@@ -15,13 +15,12 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 #### Thursday, November 12, 2026 (11h-12h) (SGS)
 
-- **Adrien Bolland:** 
-Reinforcement learning for emergency voltage control and blackout prevention in electrical grids
-
-<details>
+- **Adrien Bolland:** Reinforcement learning for emergency voltage control and blackout prevention in electrical grids
+  <details>
     <summary>Abstract</summary>
       Voltage instability has returned to the center of power-system operation. Such instabilities have contributed to the blackouts of Athens in 2004 and of the Iberian Peninsula in 2025. They occur when, after a disturbance, restoring the operating point demands more than the grid can supply or absorb, and voltages drift over minutes, down or up, beyond their limits. This presentation reviews the control schemes in place and the emergency controls proposed in the literature, and what remains open. We then discuss the emergency control of on-load tap changers in the face of contingencies. We formulate the problem as a chance-constrained decentralized POMDP, in which differential-algebraic equations with random disturbances describe the power system and safety is stated as probabilities of voltage excursion and collapse. We describe the learning challenges it raises, arising from slow simulations, rare events and a combinatorial action space, and the approaches that address them. We show preliminary results, in which controllers trained on a simulated grid avert collapses and exhibit different trade-offs between security and control effort, and close with the questions the problem leaves open to mathematics and machine learning.
   </details>
+
 
 #### Thursday, November 19, 2026 (11h-12h) (SGM)
 
