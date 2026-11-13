@@ -13,18 +13,16 @@ If you are interested in presenting at the seminar, please contact us at <a href
 
 
 
-#### Thursday, November 12, 2026 (11h-12h) (SGS)
 
-- **Adrien Bolland:** Reinforcement learning for emergency voltage control and blackout prevention in electrical grids
+
+
+#### Thursday, November 19, 2026 (11h-12h) (SGS)
+
+- **Andreas Habring:** A Reverse Transport Inequality for Underdamped Langevin and Applications to Annealing
   <details>
     <summary>Abstract</summary>
-      Voltage instability has returned to the center of power-system operation. Such instabilities have contributed to the blackouts of Athens in 2004 and of the Iberian Peninsula in 2025. They occur when, after a disturbance, restoring the operating point demands more than the grid can supply or absorb, and voltages drift over minutes, down or up, beyond their limits. This presentation reviews the control schemes in place and the emergency controls proposed in the literature, and what remains open. We then discuss the emergency control of on-load tap changers in the face of contingencies. We formulate the problem as a chance-constrained decentralized POMDP, in which differential-algebraic equations with random disturbances describe the power system and safety is stated as probabilities of voltage excursion and collapse. We describe the learning challenges it raises, arising from slow simulations, rare events and a combinatorial action space, and the approaches that address them. We show preliminary results, in which controllers trained on a simulated grid avert collapses and exhibit different trade-offs between security and control effort, and close with the questions the problem leaves open to mathematics and machine learning.
+      In recent years there has been significant development in research on underdamped Langevin dynamics for sampling from Gibbs probability distributions of the form $e^{-U(x)}$ with potential $U(x)$. The reason for this is that underdamped Langevin is an acceleration of conventional overdamped Langevin, akin to Nesterov acceleration in comparison to gradient descent. In the first part of this talk we present a new reverse transport inequality for underdamped Langevin with non-convex potentials. That is, we prove exponential convergence in the Kullback-Leibler divergence starting from singular initializations. Building on the same techniques, in the second part of the talk we analyze convergence of annealed underdamped Langevin sampling, i.e., applying underdamped dynamics to a temporarily varying target which moves from a simple initialization to a complex distribution of interest akin to diffusion models. Finally we show preliminary numerical results confirming significantly increased performance in comparison to annealing with overdamped Langevin dynamics.
   </details>
-
-
-#### Thursday, November 19, 2026 (11h-12h) (SGM)
-
-- **Andreas Habring:** To be announced
 
 
 #### Thursday, December 3, 2026 (11h-12h) (SGS)
@@ -41,6 +39,16 @@ If you are interested in presenting at the seminar, please contact us at <a href
   
   
 ## Past Seminars
+
+
+
+#### Thursday, November 12, 2026 (11h-12h) (SGS)
+
+- **Adrien Bolland:** Reinforcement learning for emergency voltage control and blackout prevention in electrical grids
+  <details>
+    <summary>Abstract</summary>
+      Voltage instability has returned to the center of power-system operation. Such instabilities have contributed to the blackouts of Athens in 2004 and of the Iberian Peninsula in 2025. They occur when, after a disturbance, restoring the operating point demands more than the grid can supply or absorb, and voltages drift over minutes, down or up, beyond their limits. This presentation reviews the control schemes in place and the emergency controls proposed in the literature, and what remains open. We then discuss the emergency control of on-load tap changers in the face of contingencies. We formulate the problem as a chance-constrained decentralized POMDP, in which differential-algebraic equations with random disturbances describe the power system and safety is stated as probabilities of voltage excursion and collapse. We describe the learning challenges it raises, arising from slow simulations, rare events and a combinatorial action space, and the approaches that address them. We show preliminary results, in which controllers trained on a simulated grid avert collapses and exhibit different trade-offs between security and control effort, and close with the questions the problem leaves open to mathematics and machine learning.
+  </details>
 
 
 #### <span class="group-meeting-label">Group Meeting</span> Tuesday, October 20, 2026 (11h-12h) (SGM)
